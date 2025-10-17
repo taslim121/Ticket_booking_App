@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Taslim",
+    "password": "1234",
+    "hashPassword": "$2a$10$o.n3fFpbnjvWZskcMhQS0eaDzpaEwOycjxEqyokg6a/9xHQMtWF6W",
+    "ticketsBooked": [],
+    "userId": "0a937804-b68d-4807-a131-dc40030afab5"
+  },
+  {
+    "name": "Karunya Chavan",
+    "password": "12345678",
+    "hashPassword": "$2a$10$/jzXaOUqSAicNKpXjx6kP.8FjHANx.l2TXtBXFqDcgZWsG0mheTT6",
+    "ticketsBooked": [
+      {
+        "ticketId": "eee6a3fb-de9d-47c9-8fcc-58732cc29d22",
+        "userId": "6bde9aab-3289-49f6-8402-8dd938b9d6cf",
+        "source": "Milwaukee",
+        "destination": "Detroit",
+        "dateOfTravel": "2025-10-17",
+        "train": {
+          "seats": [
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 1, 0, 0, 0, 1]
+          ],
+          "stations": ["Chicago", "Milwaukee", "Detroit"],
+          "trainId": "TRN003",
+          "trainNo": "EXP201",
+          "stationTime": {
+            "Chicago": "09:15:00",
+            "Milwaukee": "11:45:00",
+            "Detroit": "15:30:00"
+          }
+        }
+      }
+    ],
+    "userId": "6bde9aab-3289-49f6-8402-8dd938b9d6cf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 1]
+    ],
+    "stations": ["Chicago", "Milwaukee", "Detroit"],
+    "trainId": "TRN003",
+    "trainNo": "EXP201",
+    "stationTime": {
+      "Chicago": "09:15:00",
+      "Milwaukee": "11:45:00",
+      "Detroit": "15:30:00"
+    }
+  },
+  {
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stations": ["New York", "Philadelphia", "Boston"],
+    "trainId": "TRN001",
+    "trainNo": "EXP101",
+    "stationTime": {
+      "New York": "08:00:00",
+      "Philadelphia": "10:30:00",
+      "Boston": "14:00:00"
+    }
+  },
+  {
+    "seats": [
+      [0, 0, 0, 0, 0, 1],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stations": ["Boston", "Philadelphia", "New York"],
+    "trainId": "TRN002",
+    "trainNo": "EXP102",
+    "stationTime": {
+      "Boston": "16:30:00",
+      "Philadelphia": "20:00:00",
+      "New York": "22:30:00"
+    }
+  }
+]
