@@ -53,24 +53,6 @@ TicketBookingApp/
 - Java 8 or higher
 - Gradle 7.0 or higher
 
-### Installation
-
-1. Clone the repository
-```bash
-git clone [repository-url]
-cd TicketBookingApp
-```
-
-2. Build the project
-```bash
-./gradlew build
-```
-
-3. Run the application
-```bash
-./gradlew run
-```
-
 ## Usage
 
 1. **Start the Application**
