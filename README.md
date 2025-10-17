@@ -86,6 +86,3 @@ The application uses JSON files for data persistence:
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
